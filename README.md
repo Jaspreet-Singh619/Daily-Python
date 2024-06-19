@@ -1,2 +1,2 @@
-# Daily-Python
+# Python
 Daily Python Practice
